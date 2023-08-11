@@ -1,22 +1,13 @@
-
 package com.technospace.addressbook;
-
 /***
- * 
- * @author Ashwini Pisal
- * AddressBookMain Class is used for performing different 
- * Operations on AddressBook
+ @author Ashwini Pisal
+ AddressBookMain class performing different operations on addressbook
  */
+
 public class AddressBookMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		/**
-		 * Welcome message for user
-		 */
-		System.out.println("**** Welcome to AddressBook Program ****");
-		
-	}
+		System.out.println("Welcome to AddressBook Program");
+		}
 
 }
